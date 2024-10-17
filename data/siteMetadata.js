@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: "A Craftsman's Journey",
-  author: 'Nathan Dimitriades',
+  author: 'Fanta Zio',
   headerTitle: 'Programming as a Craft',
-  description: 'Blog and Portfolio, by Nathan Dimitriades',
+  description: 'Blog and Portfolio, by Fanta Zio',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: 'nathanfantazio@proton.me',
   github: 'https://github.com/fantazio1',
-  linkedin: 'https://www.linkedin.com/thanosades',
+  // linkedin: 'https://www.linkedin.com/thanosades',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
